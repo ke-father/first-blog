@@ -91,4 +91,5 @@ app.use((err, req, res, next) => {
 // 监听80端口
 app.listen(80);
 
+console.log('测试')
 console.log('服务器已开启')
